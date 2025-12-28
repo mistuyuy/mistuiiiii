@@ -1,2 +1,7 @@
-https://colab.research.google.com/drive/1u3B3o9P7sF0b3ou-QK1U5hSXfTvIhksE?usp=sharing
-https://datalens.yandex/6sb3ek9ovr70q
+Сдесь я могу представить полный анализ данных датасета с книгами, так же хочу выделить пару интересных фактов которыйе смог подменить: 
+Общее количество уникальных авторов: 9550
+Самый популярный язык: english, (14821 книг), (97.8%)
+Максимальная цена: 1755 USD
+Средняя цена: 48.17 USD
+Сама ссылка на работу >>> https://colab.research.google.com/drive/1u3B3o9P7sF0b3ou-QK1U5hSXfTvIhksE?usp=sharing
+Ссылка на аналитику в Datalens >>> https://datalens.yandex/6sb3ek9ovr70q
